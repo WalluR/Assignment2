@@ -1,0 +1,83 @@
+[0, 'FAIL'], [1, 'CORRECT'], [2, 'CORRECT'], [3, 'CORRECT'], [4, 'FAIL'], [5, 'CORRECT'], [6, 'CORRECT'], [7, 'CORRECT'], [8, 'FAIL'], [9, 'CORRECT'], [10, 'CORRECT'], [11, 'CORRECT'], [12, 'FAIL'], [13, 'CORRECT'], [14, 'CORRECT'], [15, 'CORRECT'], [16, 'CORRECT'], [17, 'FAIL'], [18, 'CORRECT'], [19, 'CORRECT'], [20, 'FAIL'], [21, 'CORRECT'], [22, 'CORRECT'], [23, 'CORRECT'], [24, 'CORRECT']]
+AVG before 95480.76 One-Way
+AVG after 67691.2
+Talking same time After  25
+Talking same time Before  5
+_______________________________________________
+[[0, 'FAIL'], [1, 'CORRECT'], [2, 'FAIL'], [3, 'FAIL'], [4, 'FAIL'], [5, 'CORRECT'], [6, 'FAIL'], [7, 'FAIL'], [8, 'FAIL'], [9, 'FAIL'], [10, 'CORRECT'], [11, 'FAIL'], [12, 'FAIL'], [13, 'FAIL'], [14, 'FAIL'], [15, 'FAIL'], [16, 'FAIL'], [17, 'FAIL'], [18, 'FAIL'], [19, 'CORRECT'], [20, 'CORRECT'], [21, 'CORRECT'], [22, 'FAIL'], [23, 'FAIL'], [24, 'FAIL'], [25, 'FAIL'], [26, 'CORRECT'], [27, 'FAIL'], [28, 'FAIL'], [29, 'CORRECT'], [30, 'CORRECT'], [31, 'CORRECT'], [32, 'FAIL'], [33, 'CORRECT'], [34, 'FAIL'], [35, 'CORRECT'], [36, 'FAIL'], [37, 'FAIL']]
+AVG before 63442.63157894737 One-Way
+AVG after 52814.333333333336
+Talking same time After  38
+Talking same time Before  6
+_______________________________________________
+[[0, 'FAIL'], [1, 'FAIL'], [2, 'CORRECT'], [3, 'FAIL'], [4, 'FAIL'], [5, 'FAIL'], [6, 'CORRECT'], [7, 'FAIL'], [8, 'CORRECT'], [9, 'FAIL'], [10, 'CORRECT'], [11, 'FAIL'], [12, 'CORRECT'], [13, 'FAIL'], [14, 'CORRECT'], [15, 'FAIL'], [16, 'CORRECT'], [17, 'FAIL'], [18, 'CORRECT'], [19, 'FAIL'], [20, 'CORRECT'], [21, 'FAIL'], [22, 'FAIL'], [23, 'FAIL'], [24, 'CORRECT'], [25, 'FAIL'], [26, 'CORRECT'], [27, 'FAIL'], [28, 'FAIL'], [29, 'CORRECT'], [30, 'FAIL'], [31, 'FAIL'], [32, 'FAIL'], [33, 'CORRECT'], [34, 'FAIL'], [35, 'FAIL'], [36, 'FAIL'], [37, 'CORRECT'], [38, 'FAIL'], [39, 'FAIL'], [40, 'FAIL'], [41, 'FAIL'], [42, 'CORRECT'], [43, 'CORRECT'], [44, 'FAIL'], [45, 'CORRECT'], [46, 'FAIL'], [47, 'CORRECT'], [48, 'FAIL']]
+AVG before 49180.42857142857 One-Way
+AVG after 39136.5
+Talking same time After  49
+Talking same time Before  6
+_______________________________________________
+[[0, 'FAIL'], [1, 'FAIL'], [2, 'FAIL'], [3, 'CORRECT'], [4, 'FAIL'], [5, 'CORRECT'], [6, 'FAIL'], [7, 'FAIL'], [8, 'FAIL'], [9, 'CORRECT'], [10, 'CORRECT'], [11, 'FAIL'], [12, 'CORRECT'], [13, 'CORRECT'], [14, 'CORRECT'], [15, 'FAIL'], [16, 'FAIL'], [17, 'CORRECT'], [18, 'FAIL'], [19, 'FAIL'], [20, 'FAIL'], [21, 'CORRECT'], [22, 'FAIL'], [23, 'FAIL'], [24, 'FAIL'], [25, 'FAIL'], [26, 'FAIL'], [27, 'CORRECT'], [28, 'FAIL'], [29, 'FAIL'], [30, 'FAIL'], [31, 'FAIL'], [32, 'FAIL'], [33, 'FAIL'], [34, 'FAIL'], [35, 'FAIL'], [36, 'CORRECT'], [37, 'FAIL'], [38, 'FAIL'], [39, 'FAIL'], [40, 'FAIL'], [41, 'CORRECT'], [42, 'FAIL'], [43, 'FAIL'], [44, 'FAIL'], [45, 'FAIL'], [46, 'FAIL'], [47, 'CORRECT'], [48, 'FAIL'], [49, 'FAIL'], [50, 'FAIL'], [51, 'CORRECT'], [52, 'FAIL'], [53, 'FAIL'], [54, 'FAIL'], [55, 'FAIL'], [56, 'FAIL'], [57, 'FAIL'], [58, 'FAIL'], [59, 'FAIL'], [60, 'FAIL']]
+AVG before 38541.32786885246 One-Way
+AVG after 44022.166666666664
+Talking same time After  61
+Talking same time Before  6
+_______________________________________________
+All the Conversations that are Before when the interface is changing
+Conversation is emotianally sync
+Number of occurences of person A words in person B words: 181
+Number of occurences of person B words in person A words: 188
+Most common words in conversation [('?', 67), (',', 38), ('like', 15), ('/s', 14), ('eye', 14)]
+Positive count : 42 ['haha', 'haha', 'ok', 'okay', 'haha', 'haha', 'like', 'haha', 'like', 'like', 'haha', 'like', 'like', 'super', 'yeah', 'haha', 'like', 'like', 'like', 'like', 'smile', 'yeah', 'like', 'okay', 'smile', 'smile', 'like', 'yeah', 'hahaha', 'straight', 'straight', 'hahaha', 'hahaha', 'yeah', 'hahaha', 'like', 'like', 'yeah', 'like', 'like', 'smile', 'hahaha']
+Negative count : 6 ['lost', 'fail', 'ghost', 'fuck', 'doubt', 'fuck']
+_-------------------------------------------------------
+Conversation is emotianally sync
+Number of occurences of person A words in person B words: 175
+Number of occurences of person B words in person A words: 99
+Most common words in conversation [(',', 51), ('.', 44), ('?', 42), ('lip', 22), ('upper', 22)]
+Positive count : 20 ['laugh', 'sure', 'sure', 'yeah', 'yeah', 'smile', 'yeah', 'yeah', 'like', 'top', 'like', 'grin', '.sure', 'yeah', 'true', 'sure', 'sure', 'straight', 'special', 'yeah']
+Negative count : 1 ['lower']
+_-------------------------------------------------------
+Conversation is emotianally sync
+Number of occurences of person A words in person B words: 126
+Number of occurences of person B words in person A words: 190
+Most common words in conversation [('?', 22), ('/s', 22), ('think', 21), ('/d', 17), ('big', 8)]
+Positive count : 30 ['kind', 'kind', 'kind', 'kind', 'straight', 'kind', 'top', 'kind', 'yeah', 'special', 'ok', 'like', 'like', 'kind', 'top', 'like', 'top', 'top', 'better', 'yeah', 'yeah', 'yeah', 'top', 'yeah', 'like', 'yeah', 'top', 'top', 'yeah', 'yeah']
+Negative count : 2 ['lower', 'bore']
+_-------------------------------------------------------
+Conversation is emotianally sync
+Number of occurences of person A words in person B words: 163
+Number of occurences of person B words in person A words: 222
+Most common words in conversation [('?', 72), ('/s', 37), ('big', 26), ('eyebrow', 21), ('look', 18)]
+Positive count : 22 ['okay', 'kind', 'kind', 'kind', 'smiley', 'well', 'sure', 'kind', 'kind', 'kind', 'yeah', 'super', 'haha', 'kind', 'smile', 'like', 'ok', 'okay', 'ok', 'smile', 'smile', 'okay']
+Negative count : 4 ['nosey', 'evil', 'lower', 'nosey']
+_-------------------------------------------------------
+----------------------------------------------------
+All the Conversations that are After when the interface is changing
+Conversation is emotianally sync
+Number of occurences of person A words in person B words: 17
+Number of occurences of person B words in person A words: 10
+Most common words in conversation [(',', 21), ('?', 10), ('big', 5), ('mouth', 5), ('open', 5)]
+Positive count : 7 ['yeah', 'like', 'like', 'yeah', 'prettiest', 'like', 'like']
+Negative count : 0 []
+_-------------------------------------------------------
+Conversation is emotianally sync
+Number of occurences of person A words in person B words: 13
+Number of occurences of person B words in person A words: 18
+Most common words in conversation [('?', 10), ('.', 9), (',', 6), ('lip', 6), ('/d', 4)]
+Positive count : 7 ['top', 'top', 'sure', 'yeah', 'sure', 'better', 'well']
+Negative count : 1 ['wrong']
+_-------------------------------------------------------
+Conversation is emotianally sync
+Number of occurences of person A words in person B words: 6
+Number of occurences of person B words in person A words: 5
+Most common words in conversation [('?', 4), ('/s', 3), ('plesent', 1), ('round', 1), ('shapehmm', 1)]
+Positive count : 4 ['smile', 'better', 'kind', 'like']
+Negative count : 0 []
+_-------------------------------------------------------
+Conversation is emotianally sync
+Number of occurences of person A words in person B words: 11
+Number of occurences of person B words in person A words: 13
+Most common words in conversation [('?', 12), ('thin', 4), ('/d', 3), ('look', 3), ('werent', 3)]
+Positive count : 5 ['sure', 'kind', 'like', 'smile', 'kind']
+Negative count : 0 []
+_-----------------------------
